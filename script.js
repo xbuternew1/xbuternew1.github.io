@@ -4,6 +4,3 @@ $(window).scroll(function(e){
   else
     $(".explore,.navbar").removeClass("at-top");
 });
-
-
-var s = skrollr.init();
